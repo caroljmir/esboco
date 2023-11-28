@@ -1,0 +1,19 @@
+body{
+    background-color: lavender;
+}
+
+#pontos{
+font-size: 16px;
+margin-left: 30px;
+}
+
+#tempo{
+    font-size: 16px;
+    float:right;
+    margin-right: 30px; 
+}
+
+#desenho{
+    color: black;
+    
+}
